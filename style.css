@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.list-group{
+    width: 600px;
+}
+#bookmarked{
+    height: 620px;
+}
+#bookmark-list{
+    height: auto;
+    overflow-y: hidden;    
+}
+@media (min-width: 576px) { 
+    
+   overflow-y: hidden; 
+}

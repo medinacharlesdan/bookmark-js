@@ -1,0 +1,15 @@
+{
+  "name": "bookmarkjs",
+  "version": "1.0.0",
+  "description": "simple bookmark application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookmark",
+    "js"
+  ],
+  "author": "Charles Medina",
+  "license": "ISC"
+}
